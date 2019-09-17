@@ -1,3 +1,0 @@
-git config --global username 'XX'
-git config --global user.email ''
-git clone ''
